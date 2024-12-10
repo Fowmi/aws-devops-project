@@ -14,3 +14,5 @@
         }
     ]
 }
+# Note : Bucket Properties:Enable all Public access ; Enable Static Website Hosting 
+# Add above Bucket policy
